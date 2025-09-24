@@ -1,4 +1,4 @@
-# World Layoffs - Cleaning and Exploratory Analysis
+# World Layoffs - Data Cleaning and Exploratory Analysis
 
 ## Project Overview
 This is a data cleaning and exploratory analysis project completed with the assistance of AlexTheAnalyst's SQL [cleaning](https://www.youtube.com/watch?v=4UltKCnnnTA&t=2932s) and [analysis](https://www.youtube.com/watch?v=QYd-RtK58VQ&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=20) tutorial.
